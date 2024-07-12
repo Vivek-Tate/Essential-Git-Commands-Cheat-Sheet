@@ -172,6 +172,6 @@ sudo port install git
 | Enable Hook   | `chmod +x .git/hooks/[hook-name]`            | Make the hook script executable               |
 | Sample Hook   | `cp .git/hooks/[hook-name].sample .git/hooks/[hook-name]` | Copy and edit a sample hook script   |
 
-### Get in Touch
+## Get in Touch
 
 Please feel free to reach out if you have any issues or suggestions. Connect with me on [LinkedIn](https://www.linkedin.com/in/vivektate/) or email me at vivektate.developer@gmail.com.
